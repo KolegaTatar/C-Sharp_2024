@@ -10,28 +10,39 @@
 
             for (int i = 0; i < n; i++)
             {
-                names[i] = ReadString($"Podaj imię osoby {i + 1}:");
-                ages[i] = ReadInt($"Podaj wiek osoby {i + 1}:", 0, 150);
+                names[i] = ReadString($"Podaj imię osoby {i + 1}: ");
+                ages[i] = ReadInt($"Podaj wiek osoby {i + 1}: ", 0, 150);
 
 
             }
-            List<string> namesWithA = names.Where(name => name.StartsWith("A")).ToList();
+            List<string> namesWithA = names.Where(name => name.StartsWith("A", StringComparison.OrdinalIgnoreCase)).ToList();
 
             Dictionary<string, int> adults = new Dictionary<string, int>();
             for (int i = 0; i < n; i++)
             {
                 if (ages[i] >= 18)
                 {
-                    adults.Add(namesWithA[i], ages[i]);
+                    adults.Add(names[i], ages[i]);
                 }
             }
 
+            Console.WriteLine("");
+            Console.WriteLine(" - - - - -  - - - - -");
             Console.WriteLine("Tablica imion i wieków: ");
+            PrintArray(names, ages);
 
-            foreach (string name in adults.Keys)
-            {
-                Console.WriteLine(name);
-            }
+
+            Console.WriteLine("");
+            Console.WriteLine(" - - - - -  - - - - -");
+            Console.WriteLine("Lista imion zaczynających się od A i a: ");
+            PrintList(namesWithA);
+
+
+            Console.WriteLine("");
+            Console.WriteLine(" - - - - -  - - - - -");
+            Console.WriteLine("Słownik osób pełnoletnich: ");
+            PrintDictionary(adults);
+
         }
 
         static string ReadString(string prompt)
@@ -63,6 +74,29 @@
                 }
             } while (!valid);
             return result;
+        }
+
+        static void PrintArray(string[] names, int[] ages)
+        {
+            for(int i=0; i<names.Length; i++)
+            {
+                Console.WriteLine("{0} - {1}", names[i], ages[i]);
+            }
+        }
+        static void PrintList(List<string> names)
+        {
+            foreach(string name in names)
+            {
+                Console.WriteLine(name);
+            }
+        }
+
+        static void PrintDictionary(Dictionary<string, int> dict)
+        {
+            foreach(var pair in dict)
+            {
+                Console.WriteLine($"{pair.Key} - {pair.Value}");
+            }
         }
     }
 }
