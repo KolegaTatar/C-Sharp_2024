@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\bin\Debug\net8.0\_1_lambda.exe
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\bin\Debug\net8.0\_1_lambda.deps.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\bin\Debug\net8.0\_1_lambda.runtimeconfig.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\bin\Debug\net8.0\_1_lambda.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\bin\Debug\net8.0\_1_lambda.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.AssemblyInfo.cs
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.sourcelink.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\refint\_1_lambda.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\_1_lambda.genruntimeconfig.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_1_lambda\_1_lambda\obj\Debug\net8.0\ref\_1_lambda.dll
