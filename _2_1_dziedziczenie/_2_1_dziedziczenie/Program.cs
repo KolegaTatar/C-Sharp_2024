@@ -1,4 +1,6 @@
-﻿namespace _2_1_dziedziczenie
+﻿using System;
+
+namespace _2_1_dziedziczenie
 {
     internal class Program
     {
@@ -70,9 +72,13 @@
         static void Main(string[] args)
         {
             Person p1 = new Person("Adam", "Suszek", new DateTime(1984, 1, 16), /*rok miesiąc dzień, */ new Adress("Poznań", "Polna", "1c/4", "11-222" /*muszą być "" zamiast '' bo to string a nie char*/));
+            Console.WriteLine($"Imię: {p1.Name} nazwisko: {p1.Surname}, data urodzenia {p1.DateOfBirth.ToShortDateString()}\nAdress: {p1.Adress.City} ulica: {p1.Adress.Street} {p1.Adress.HouseNumber}, kod pocztowy: {p1.Adress.PostalCode}\n\n");
 
-            Console.WriteLine($"Imię: {p1.Name} nazwisko: {p1.Surname}, data urodzenia {p1.DateOfBirth.ToShortDateString()}\nAdress: {p1.Adress.City} ulica: {p1.Adress.Street} {p1.Adress.HouseNumber}, kod pocztowy: {p1.Adress.PostalCode}");
+            Student s1 = new Student("Anna", "Kowal", new DateTime(1994, 2, 12), new Adress("Kraków", "Szkolna", "4d", "45-231"), "12345");
+            Console.WriteLine($"Imię: {s1.Name} nazwisko: {s1.Surname}, data urodzenia {s1.DateOfBirth.ToShortDateString()}\nAdress: {s1.Adress.City} ulica: {s1.Adress.Street} {s1.Adress.HouseNumber}, kod pocztowy: {s1.Adress.PostalCode}, indeks: {s1.StudentNumber}\n\n");
 
+            Teacher t1 = new Teacher("Jakub", "Nowacki", new DateTime(1977, 5, 23), new Adress("Olsztyn", "Miła", "67d", "42-236"),new List<string>() {"Matematyka","Informatyka","Geografia"});
+            Console.WriteLine($"Imię: {t1.Name} nazwisko: {t1.Surname}, data urodzenia {t1.DateOfBirth.ToShortDateString()}\nAdress: {t1.Adress.City} ulica: {t1.Adress.Street} {t1.Adress.HouseNumber}, kod pocztowy: {t1.Adress.PostalCode}, Przedmioty: {string.Join(", ", t1.Subjects)}\n\n");  /*Join to taki foreach, pierwszy parametr oznacza co ma wstawić między elemenatmi dizelonymi a drugi, na czym ma to zadziałać*/
             Console.ReadKey();
         }
     }
