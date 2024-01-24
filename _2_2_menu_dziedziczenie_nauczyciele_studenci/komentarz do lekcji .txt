@@ -4,6 +4,7 @@
  - klasy
  - metody i właściwości
  - menu
+ - student, teacher itp
 
 
 polecenia do zadań
@@ -45,3 +46,20 @@ dodawać je do listy użytkowników.
 konsoli.
  Utwórz metodę Main, która będzie używać pętli while do wyświetlania menu i
 wykonywania odpowiednich akcji w zależności od wybranej opcji.*/
+
+
+
+Dziedziczenie - zadanie 3
+
+ Zmodyfikuj metodę DisplayMenu, aby dodać nowe opcje menu dla dodawania i
+wyświetlania studentów i nauczycieli. Możesz też zmienić nazwę opcji dla
+dodawania i wyświetlania osób na "Dodaj osobę" i "Wyświetl osoby".
+ Zmodyfikuj metodę AddUser, aby zapytać użytkownika, czy chce dodać osobę,
+studenta czy nauczyciela, i w zależności od odpowiedzi utworzyć odpowiedni
+obiekt klasy Person, Student lub Teacher. Możesz też poprosić użytkownika o
+podanie dodatkowych danych, takich jak numer indeksu dla studenta lub lista
+przedmiotów dla nauczyciela.
+ Zmodyfikuj metodę DisplayUsers, aby zapytać użytkownika, czy chce wyświetlić
+wszystkich użytkowników, tylko studentów, tylko nauczycieli czy tylko osoby.
+Możesz też użyć instrukcji if lub switch do sprawdzenia typu obiektu i wyświetlenia
+odpowiednich danych.
