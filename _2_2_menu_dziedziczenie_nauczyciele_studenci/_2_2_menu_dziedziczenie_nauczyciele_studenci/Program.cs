@@ -1,7 +1,7 @@
-﻿using _2_1_menu_dziedziczenie.classes;
-using System.Linq.Expressions;
+﻿using System;
+using _2_2_menu_dziedziczenie_nauczyciele_studenci.classes;
 
-namespace _2_1_menu_dziedziczenie
+namespace _2_2_menu_dziedziczenie_nauczyciele_studenci
 {
     internal class Program
     {
@@ -10,7 +10,7 @@ namespace _2_1_menu_dziedziczenie
         {
             int option = 0;
 
-            while (option !=4)
+            while (option != 4)
             {
                 option = DisplayMenu();
 
@@ -48,7 +48,7 @@ namespace _2_1_menu_dziedziczenie
             Console.WriteLine("4. Wyjdź z programu");
 
             Console.Write("\nWybierz opcję: ");
-            return int.Parse( Console.ReadLine() );
+            return int.Parse(Console.ReadLine());
 
         }
 
@@ -60,7 +60,6 @@ namespace _2_1_menu_dziedziczenie
             string surname = Console.ReadLine();
             Console.Write("Podaj datę urodzenia (RRRR-MM-DD): ");
             DateTime dateOfBirth = DateTime.Parse(Console.ReadLine());
-
             Person user = new Person(name, surname, dateOfBirth);
             users.Add(user);
 
