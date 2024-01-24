@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\bin\Debug\net8.0\_2_1_menu_dziedziczenie.exe
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\bin\Debug\net8.0\_2_1_menu_dziedziczenie.deps.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\bin\Debug\net8.0\_2_1_menu_dziedziczenie.runtimeconfig.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\bin\Debug\net8.0\_2_1_menu_dziedziczenie.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\bin\Debug\net8.0\_2_1_menu_dziedziczenie.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.AssemblyInfo.cs
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.sourcelink.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\refint\_2_1_menu_dziedziczenie.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\_2_1_menu_dziedziczenie.genruntimeconfig.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_2_1_menu_dziedziczenie\_2_1_menu_dziedziczenie\obj\Debug\net8.0\ref\_2_1_menu_dziedziczenie.dll

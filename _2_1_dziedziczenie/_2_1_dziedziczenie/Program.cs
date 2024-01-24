@@ -18,6 +18,7 @@ namespace _2_1_dziedziczenie
                 HouseNumber = housenumber;
                 PostalCode = postalcode;
             }
+            public Adress() { }
         }
         class Person
         {
