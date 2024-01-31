@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\bin\Debug\net8.0\_3_interfejsy.exe
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\bin\Debug\net8.0\_3_interfejsy.deps.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\bin\Debug\net8.0\_3_interfejsy.runtimeconfig.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\bin\Debug\net8.0\_3_interfejsy.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\bin\Debug\net8.0\_3_interfejsy.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.AssemblyInfo.cs
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.sourcelink.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\refint\_3_interfejsy.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\_3_interfejsy.genruntimeconfig.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_3_interfejsy\_3_interfejsy\obj\Debug\net8.0\ref\_3_interfejsy.dll
