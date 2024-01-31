@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_2_2_menu_dziedziczenie_nauczyciele_studenci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad6a80535c6338c89f86da23ce997aa24d961d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("_2_2_menu_dziedziczenie_nauczyciele_studenci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_2_2_menu_dziedziczenie_nauczyciele_studenci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
