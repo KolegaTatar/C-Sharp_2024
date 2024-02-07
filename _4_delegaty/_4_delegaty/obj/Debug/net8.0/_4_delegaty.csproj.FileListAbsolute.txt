@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\bin\Debug\net8.0\_4_delegaty.exe
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\bin\Debug\net8.0\_4_delegaty.deps.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\bin\Debug\net8.0\_4_delegaty.runtimeconfig.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\bin\Debug\net8.0\_4_delegaty.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\bin\Debug\net8.0\_4_delegaty.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.AssemblyInfo.cs
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.sourcelink.json
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\refint\_4_delegaty.dll
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.pdb
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\_4_delegaty.genruntimeconfig.cache
+C:\xampp2\htdocs\zsk\C-Sharp_2024\_4_delegaty\_4_delegaty\obj\Debug\net8.0\ref\_4_delegaty.dll
