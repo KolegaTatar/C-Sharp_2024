@@ -1,0 +1,41 @@
+ 28.02.2024
+
+ - delegaty cz.2
+
+
+
+polecenia do lekcji 
+
+
+zad 1:
+
+Zadania - delegaty
+/*
+ * Napisz program w języku C#, który używa delegatów do wykonania operacji
+logicznych na dwóch wartościach boolowskich podanych przez użytkownika.
+● Zadeklaruj typ delegata, który przyjmuje i zwraca bool, i nazwij go Logic.
+● Zdefiniuj cztery metody statyczne, które realizują operacje logiczne
+AND, OR, XOR i NOT na dwóch wartościach boolowskich, i nazwij je
+odpowiednio And, Or, Xor i Not.
+● Zdefiniuj metodę statyczną, która wyświetla wynik operacji na
+wartościach boolowskich, i nazwij ją DisplayResult. Metoda ta powinna
+przyjmować jako argumenty instancję delegata Logic, dwie wartości
+boolowskie i wywoływać metodę związaną z delegatem na tych
+wartościach. Metoda ta powinna również obsługiwać wyjątek
+ArgumentNullException, jeśli wystąpi, i wyświetlać odpowiedni
+komunikat o błędzie.
+● Zdefiniuj funkcję, która pobiera wartość boolowską od użytkownika, i
+nazwij ją GetBoolFromUser. Funkcja ta powinna wyświetlać podpowiedź
+dla użytkownika, pobierać dane od użytkownika, sprawdzać, czy dane są
+poprawne i boolowskie, i zwracać wartość. Jeśli dane są nieprawidłowe,
+funkcja powinna wyświetlać komunikat o błędzie i prosić użytkownika o
+ponowne wprowadzenie danych.
+● W metodzie Main, pobierz dwie wartości boolowskie od użytkownika za
+pomocą funkcji GetBoolFromUser i zapisz je w zmiennych x i y.
+● Utwórz cztery instancje delegata Logic i przypisz im metody And, Or,
+Xor i Not.
+● Wywołaj metodę DisplayResult dla każdej instancji delegata i przekaż jej
+zmienne x i y jako argumenty.
+● Przetestuj swój program dla różnych danych wejściowych i sprawdź, czy
+działa poprawnie.
+*/
