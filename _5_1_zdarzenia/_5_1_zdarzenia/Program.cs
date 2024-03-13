@@ -44,7 +44,7 @@
             //subskrybcja zdarzenia
             publisher.MessageEvent += subscriber.OnMessageReceived;
 
-            //wywołanie metody która wysyła zdarzenie
+            //wywołanie metody która wysyła zdarzenie   
             publisher.SendMessage("Pierwsza wiadomość");
             publisher.SendMessage("Druga wiadomość");
             publisher.SendMessage("Trzecia wiadomość");
